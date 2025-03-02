@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Example Business",
+    "owner_name": "John Doe",
+    "description": "A short description of the example business.",
+    "tags": ["example", "business", "sample"],
+    "location": {
+      "country": "Egypt",
+      "city": "Cairo",
+      "address": "123 Example Street",
+      "google_maps_url": "https://maps.google.com/?q=Example+Business"
+    },
+    "contact": {
+      "phone": "+201234567890",
+      "email": "example@example.com",
+      "website": "https://www.example.com"
+    }
+  }
+]
