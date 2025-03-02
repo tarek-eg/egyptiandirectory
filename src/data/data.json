@@ -1,19 +1,17 @@
 [
   {
-    "name": "Example Business",
-    "owner_name": "John Doe",
-    "description": "A short description of the example business.",
-    "tags": ["example", "business", "sample"],
+    "name": "King tut Restaurant café",
+    "description": "Authentic Flavor Of Egyptian Cuisine",
+    "tags": ["Egyptian", "Cafe", "Restaurant"],
     "location": {
-      "country": "Egypt",
-      "city": "Cairo",
-      "address": "123 Example Street",
-      "google_maps_url": "https://maps.google.com/?q=Example+Business"
+      "country": "Germany",
+      "city": "Berlin",
+      "address": "Hohenzollerndamm 11, 10717 Berlin",
+      "google_maps_url": "https://maps.app.goo.gl/6snREyG1Bzcv3Q1j9"
     },
     "contact": {
-      "phone": "+201234567890",
-      "email": "example@example.com",
-      "website": "https://www.example.com"
+      "phone": "03047595598",
+      "website": "https://kingtutrestaurant.de"
     }
   }
 ]
