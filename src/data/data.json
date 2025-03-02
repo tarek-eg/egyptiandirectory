@@ -2,7 +2,7 @@
   {
     "name": "King tut Restaurant café",
     "description": "Authentic Flavor Of Egyptian Cuisine",
-    "tags": ["Egyptian", "Cafe", "Restaurant"],
+    "tags": ["Cafe", "Restaurant"],
     "location": {
       "country": "Germany",
       "city": "Berlin",
