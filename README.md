@@ -1,4 +1,4 @@
-# What is The Egyptian Directory
+# What is the Egyptian Pages?
 
 An open source database (a JSON file :D) of business/services owned by egyptians abroad to easily discover and support them.
 Anyone is welcomed to contribute to the project by forking the repo and adding their business/services or any other business they know of.
@@ -7,7 +7,7 @@ If you are providing a service even individually (e.g translation, handy work, t
 # To get the list of businesses/services as a json, simply make a curl request:
 
 ```bash
-curl https://raw.githubusercontent.com/tarek-eg/egyptiandirectory/main/src/data/data.json
+curl https://raw.githubusercontent.com/tarek-eg/egyptianpages/main/src/data/data.json
 ```
 
 ## How to run
