@@ -9,7 +9,9 @@ export const directory = z.array(
       .array(z.string())
       .describe("List of keywords to help find the business"),
     location: z.object({
-      country: z.string(),
+      country: z.string().refine((val) => val?.toLowerCase() !== "egypt", {
+        message: "Country cannot be Egypt",
+      }),
       city: z.string(),
       address: z.string().describe("Street address of the business"),
       google_maps_url: z.string().optional().describe("Google Maps URL"),
